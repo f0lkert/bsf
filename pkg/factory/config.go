@@ -11,7 +11,7 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/free5gc/bsf/internal/logger"
+	"github.com/f0lkert/bsf/internal/logger"
 )
 
 const (

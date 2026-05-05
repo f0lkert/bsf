@@ -15,8 +15,8 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	"github.com/free5gc/bsf/internal/logger"
-	"github.com/free5gc/bsf/pkg/factory"
+	"github.com/f0lkert/bsf/internal/logger"
+	"github.com/f0lkert/bsf/pkg/factory"
 	"github.com/free5gc/openapi/models"
 )
 

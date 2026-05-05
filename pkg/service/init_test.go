@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/free5gc/bsf/pkg/factory"
-	"github.com/free5gc/bsf/pkg/service"
+	"github.com/f0lkert/bsf/pkg/factory"
+	"github.com/f0lkert/bsf/pkg/service"
 )
 
 func TestNewApp(t *testing.T) {

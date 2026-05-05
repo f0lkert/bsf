@@ -1,4 +1,4 @@
-module github.com/free5gc/bsf
+module github.com/f0lkert/bsf
 
 go 1.25.5
 

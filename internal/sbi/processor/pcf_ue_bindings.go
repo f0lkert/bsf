@@ -9,10 +9,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	bsfContext "github.com/free5gc/bsf/internal/context"
-	"github.com/free5gc/bsf/internal/logger"
-	"github.com/free5gc/bsf/internal/metrics/business"
-	"github.com/free5gc/bsf/internal/util"
+	bsfContext "github.com/f0lkert/bsf/internal/context"
+	"github.com/f0lkert/bsf/internal/logger"
+	"github.com/f0lkert/bsf/internal/metrics/business"
+	"github.com/f0lkert/bsf/internal/util"
 	"github.com/free5gc/openapi/models"
 )
 

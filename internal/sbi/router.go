@@ -7,7 +7,7 @@ package sbi
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/free5gc/bsf/internal/logger"
+	"github.com/f0lkert/bsf/internal/logger"
 )
 
 // AddService initializes the BSF SBI service with proper routing

@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/free5gc/bsf/internal/sbi/processor"
+	"github.com/f0lkert/bsf/internal/sbi/processor"
 )
 
 // getManagementRoutes returns all BSF Management API routes following 3GPP TS 29.521

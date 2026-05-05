@@ -15,8 +15,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 
-	bsfContext "github.com/free5gc/bsf/internal/context"
-	"github.com/free5gc/bsf/internal/sbi/processor"
+	bsfContext "github.com/f0lkert/bsf/internal/context"
+	"github.com/f0lkert/bsf/internal/sbi/processor"
 	"github.com/free5gc/openapi/models"
 )
 

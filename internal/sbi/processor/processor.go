@@ -3,9 +3,9 @@ package processor
 import (
 	"context"
 
-	bsfContext "github.com/free5gc/bsf/internal/context"
-	"github.com/free5gc/bsf/internal/sbi/consumer"
-	"github.com/free5gc/bsf/pkg/factory"
+	bsfContext "github.com/f0lkert/bsf/internal/context"
+	"github.com/f0lkert/bsf/internal/sbi/consumer"
+	"github.com/f0lkert/bsf/pkg/factory"
 )
 
 var processor *Processor

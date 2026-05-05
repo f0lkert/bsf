@@ -8,8 +8,8 @@ import (
 	"context"
 	"time"
 
-	bsfContext "github.com/free5gc/bsf/internal/context"
-	"github.com/free5gc/bsf/internal/logger"
+	bsfContext "github.com/f0lkert/bsf/internal/context"
+	"github.com/f0lkert/bsf/internal/logger"
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	Nnrf_NFManagement "github.com/free5gc/openapi/nrf/NFManagement"
